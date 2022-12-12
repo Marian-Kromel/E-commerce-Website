@@ -1,0 +1,19 @@
+@import "../../App.scss";
+.header {
+    background: $clr-orange;
+    background: linear-gradient(180deg, #ff69b4 0%, #ff69b4 100%);
+}
+
+.header-cnt-top {
+    border-bottom: 1px solid lighten($clr-orange, 10%);
+}
+
+// input,
+// textarea,
+// select {
+//     outline: 0;
+//     border: none;
+//     resize: none;
+//     font-family: inherit;
+//     font-size: 1.6rem;
+// }
