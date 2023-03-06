@@ -1,5 +1,14 @@
 # Ecommerce-Website
 
+How to run?
+1)  download the zip file
+2)  open cmd
+3)  write commands: 
+       npx create-react-app my-app
+       cd my-app
+       npm start
+4)  Code . (to launch the editor)
+
 ![screencapture-1](https://user-images.githubusercontent.com/114115216/223192297-78a2854b-d1c6-423b-9766-294a7b5835bb.png)
 
 
